@@ -1,0 +1,16 @@
+1.
+Battery(mAh): 4619
+Screen: java.awt.Dimension[width=1806,height=1598]
+Number: +306917779233
+Manufacturer: LG
+Storage(GB): 3GB
+Camera: 64 MPMP
+Operatin System: Tizen
+2.
+Battery(mAh): 3617
+Screen: java.awt.Dimension[width=792,height=1710]
+Number: +306930039860
+Manufacturer: Samsung
+Storage(GB): 136GB
+Camera: 22 MPMP
+Operatin System: iOS
